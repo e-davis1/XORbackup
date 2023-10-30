@@ -1,0 +1,3 @@
+C:/Users/evaoj/CLionProjects/XORbackup/cmake-build-debug/CMakeFiles/XORbackup.dir
+C:/Users/evaoj/CLionProjects/XORbackup/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/evaoj/CLionProjects/XORbackup/cmake-build-debug/CMakeFiles/rebuild_cache.dir
