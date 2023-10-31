@@ -3,4 +3,6 @@ project(XORbackup C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(XORbackup main.c)
+add_executable(XORbackup main.c
+        stringXorToBinString.c
+        stringXorToBinString.h)
